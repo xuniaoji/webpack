@@ -1,0 +1,38 @@
+html {
+    background: red;
+}
+
+.box2f {
+    height: 200px;
+    width: 200px;
+    border-radius: 3px;
+    background: green;
+}
+
+.boxsss {
+    height: 200px;
+    width: 200px;
+    border-radius: 3px;
+    background: green;
+}
+
+.box-middle {
+    height: 100px;
+    width: 100px;
+    border-radius: 3px;
+    background: blue;
+}
+
+.box-big {
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    background: red;
+}
+
+.box-small {
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    background: yellow;
+}
